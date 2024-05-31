@@ -253,7 +253,7 @@ img {
   justify-self: center;
 }
 .about__img img {
-  width: 200px;
+  width: 93% !important;
   border-radius: 0.5rem;
 }
 
